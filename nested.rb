@@ -109,6 +109,7 @@ def changing_alan
       }
     }
   programmer_hash[:alan_kay][:known_for][0] = "GUI"
+  puts programmer_hash
 
 end
 
